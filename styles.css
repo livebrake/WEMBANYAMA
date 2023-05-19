@@ -38,3 +38,18 @@ h1 {
 .btn:hover {
   background-color: #555;
 }
+
+.contact-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contact-link a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-link a:hover {
+  color: #555;
+}
